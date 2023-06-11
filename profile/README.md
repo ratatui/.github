@@ -1,6 +1,6 @@
 # `ratatui`
 
-![Demo of Ratatui](https://vhs.charm.sh/vhs-IZKj0x97pI2LAJwxCpu1Y.gif)
+![Demo of Ratatui](https://github.com/tui-rs-revival/ratatui/assets/24392180/93ab0e38-93e0-4ae0-a31b-91ae6c393185)
 
 `ratatui` is a [Rust](https://www.rust-lang.org) library to build rich terminal
 user interfaces and dashboards. It is heavily inspired by the `Javascript`
