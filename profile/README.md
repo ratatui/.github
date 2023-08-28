@@ -2,8 +2,8 @@
 
 ![Demo of Ratatui](https://github.com/ratatui-org/ratatui/assets/24392180/93ab0e38-93e0-4ae0-a31b-91ae6c393185)
 
-`ratatui` is a [Rust](https://www.rust-lang.org) library to build rich terminal
-user interfaces and dashboards. It is heavily inspired by the `Javascript`
+`ratatui` is a [Rust](https://www.rust-lang.org) library that's all about cooking up terminal user interfaces (TUIs).
+It is heavily inspired by the `Javascript`
 library [blessed-contrib](https://github.com/yaronn/blessed-contrib) and the
 `Go` library [termui](https://github.com/gizak/termui).
 
