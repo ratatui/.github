@@ -1,6 +1,6 @@
 # `ratatui`
 
-![Demo of Ratatui](https://github.com/ratatui-org/ratatui/assets/24392180/93ab0e38-93e0-4ae0-a31b-91ae6c393185)
+![Demo of Ratatui](https://raw.githubusercontent.com/ratatui-org/ratatui/aa09e59dc0058347f68d7c1e0c91f863c6f2b8c9/examples/demo2.gif)
 
 `ratatui` is a [Rust](https://www.rust-lang.org) library that's all about cooking up terminal user interfaces (TUIs).
 It is heavily inspired by the `Javascript`
