@@ -1,16 +1,19 @@
-# `ratatui`
+<img src="https://raw.githubusercontent.com/orhun/orhun/refs/heads/master/assets/ratatui-spin-dark.gif#gh-dark-mode-only">
+<img src="https://raw.githubusercontent.com/orhun/orhun/refs/heads/master/assets/ratatui-spin-light.gif#gh-light-mode-only">
+
+# Ratatui
 
 ![Demo of Ratatui](https://raw.githubusercontent.com/ratatui/ratatui/aa09e59dc0058347f68d7c1e0c91f863c6f2b8c9/examples/demo2.gif)
 
-`ratatui` is a [Rust](https://www.rust-lang.org) library that's all about cooking up terminal user interfaces (TUIs).
-It is heavily inspired by the `JavaScript`
-library [blessed-contrib](https://github.com/yaronn/blessed-contrib) and the
-`Go` library [termui](https://github.com/gizak/termui).
+**Ratatui** is a [Rust](https://www.rust-lang.org) library that's all about cooking up terminal user interfaces (TUIs).
 
-See the [repository](https://github.com/ratatui/ratatui) for more information and usage examples!
+See our [main repository](https://github.com/ratatui/ratatui) for more information and usage examples!
 
-## What is this organization?
+See the awesome applications built with Ratatui [here](https://github.com/ratatui/awesome-ratatui)!
 
-This organization was created to continue maintenance on the original [tui-rs](https://github.com/fdehau/tui-rs) project. The original maintainer had created [an issue](https://github.com/fdehau/tui-rs/issues/654) explaining how he couldn't find time to continue development, which led to us creating this organization.
+## Ecosystem 🐭
 
-With that in mind, **we the community** look forward to continuing the work started by [**Florian Dehau**](https://github.com/fdehau). 🚀
+We have a growing ecosystem that extends Ratatui's capabilities.
+
+- [Mousefood](https://github.com/ratatui/mousefood) for building embedded applications.
+- [Ratzilla](https://github.com/ratatui/ratzilla) for building websites.
