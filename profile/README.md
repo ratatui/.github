@@ -16,3 +16,4 @@ We have a growing ecosystem that extends Ratatui's capabilities.
 - [Mousefood](https://github.com/ratatui/mousefood) for building embedded applications.
 - [Ratzilla](https://github.com/ratatui/ratzilla) for building websites.
 - [TachyonFX](https://github.com/ratatui/tachyonfx) for adding effects and animation.
+- [bevy_ratatui](https://github.com/ratatui/bevy_ratatui) for using ratatui in bevy applications.
