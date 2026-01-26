@@ -13,7 +13,7 @@ See the awesome applications built with Ratatui [here](https://github.com/ratatu
 We have a growing ecosystem that extends Ratatui's capabilities.
 
 - [tui-widgets](https://github.com/ratatui/tui-widgets) for additional widgets.
-- [Mousefood](https://github.com/ratatui/mousefood) for building embedded applications.
-- [Ratzilla](https://github.com/ratatui/ratzilla) for building websites.
-- [TachyonFX](https://github.com/ratatui/tachyonfx) for adding effects and animation.
+- [mousefood](https://github.com/ratatui/mousefood) for building embedded applications.
+- [ratzilla](https://github.com/ratatui/ratzilla) for building websites.
+- [tachyonfx](https://github.com/ratatui/tachyonfx) for adding effects and animation.
 - [bevy_ratatui](https://github.com/ratatui/bevy_ratatui) for integrating with Bevy applications.
