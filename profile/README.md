@@ -15,6 +15,8 @@ We have a growing ecosystem that extends Ratatui's capabilities.
 - [bevy_ratatui](https://github.com/ratatui/bevy_ratatui) for integrating with Bevy applications.
 - [mousefood](https://github.com/ratatui/mousefood) for building embedded applications.
 - [ratatui-image](https://github.com/ratatui/ratatui-image) for displaying images in the terminal.
+- [ratatui-spinner](https://github.com/ratatui/ratatui-spinner) for spinner widgets.
+- [ratatui-table](https://github.com/ratatui/ratatui-table) for table widget.
 - [ratatui-textarea](https://github.com/ratatui/ratatui-textarea) for multi-line text input.
 - [ratzilla](https://github.com/ratatui/ratzilla) for building websites.
 - [tachyonfx](https://github.com/ratatui/tachyonfx) for adding effects and animations.
